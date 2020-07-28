@@ -45,8 +45,8 @@ services:
       - JIBRI_RECORDER_USER
       - JIBRI_RECORDER_PASSWORD
       - ENABLE_RECORDING
-      - VIRTUAL_HOST=meet.domain.corg
-      - LETSENCRYPT_HOST=meet.domain.corg
+      - VIRTUAL_HOST=meet.domain.org
+      - LETSENCRYPT_HOST=meet.domain.org
       - LETSENCRYPT_EMAIL=mail@example.com
     networks:
       meet.jitsi:
@@ -185,5 +185,5 @@ networks:
 
  ```
  
- - Remember that meet.domain.corg and mail@example.com it is your mail and domain
+ - Remember that meet.domain.org and mail@example.com it is your mail and domain
  
