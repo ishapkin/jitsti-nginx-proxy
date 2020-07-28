@@ -185,5 +185,5 @@ networks:
 
  ```
  
- - meet.domain.org and mail@example.com must be replaced for your mail and domain
+ - meet.domain.org and mail@example.com must be replaced with your mail and domain
  
